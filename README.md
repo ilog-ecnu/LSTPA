@@ -11,3 +11,7 @@
 # Run Env
     PlatEMO  v3.4:
         https://github.com/BIMK/PlatEMO
+
+# Appendix
+
+The file "LSTPA_appendices20250212.pdf" contains additional experimental results that complement the findings presented in the main paper.
